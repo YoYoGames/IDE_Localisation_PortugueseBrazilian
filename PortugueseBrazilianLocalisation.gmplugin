@@ -3,7 +3,7 @@
   "bundle_version": "1.0",
   "bundle_description": "Portuguese-Brazilian IDE localisations",
   "required": false,
-  "github_url": "https://api.github.com/repos/YoYoGames/IDE_Localisation_Portuguese-Brazilian",
+  "github_url": "https://api.github.com/repos/YoYoGames/IDE_Localisation_PortugueseBrazilian",
   "plugins": [
     {
       "plugin_name": "Portuguese-BrazilianLocalisation",
