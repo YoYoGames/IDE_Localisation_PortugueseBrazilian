@@ -17,8 +17,8 @@
       "type": "Language",
       "plugin_data": {
         "languages": [
-            { "Portuguese-Brazilian": "portuguese_brazilian.csv" },
-            {"Portuguese-Brazilian": "portuguese_brazilian_dnd.csv" }
+            { "Portuguese-Brazilian": "portuguese-brazilian.csv" },
+            {"Portuguese-Brazilian": "portuguese-brazilian_dnd.csv" }
         ]
       },
       "description": "Portuguese-Brazilian IDE localisations",
