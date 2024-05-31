@@ -7815,7 +7815,6 @@ RedefineKeys_tile_line,Tile Line,Linha de Azulejo,,Redefine keys tile_line strin
 RedefineKeys_tile_rect,Tile Rect,Rect de Azulejo,,Redefine keys tile_rect string
 RedefineKeys_tile_select,Tile Select,Seleção de Azulejo,,Redefine keys tile_select string
 RedefineKeys_tile_autotile,Tile Autotile,Autotile de Azulejo,,Redefine keys tile_autotile string
-RedefineKeys_Rotate,Rotate,Girar,,Redefine keys Rotate string
 RedefineKeys_autotile_add_full_set,Autotile Add Full Set,Autotile Adicionar Conjunto Completo,,Redefine keys autotile_add_full_set string
 RedefineKeys_autotile_add_transition_set,Autotile Add Transition Set,Autotile Adicionar Conjunto de Transição,,Redefine keys autotile_add_transition_set string
 RedefineKeys_autotile_delete_set,Autotile Delete Set,Autotile Excluir Conjunto,,Redefine keys autotile_delete_set string
@@ -7904,8 +7903,8 @@ RedefineKeys_SoundMixer,Sound Mixer,Mixer de Som,,Redefine keys location entry
 RedefineKeys_Debugger,Debugger,Depurador,,Redefine keys location entry
 RedefineKeys_GMLVisual,GML Visual,GML Visual,,Redefine keys location entry
 RedefineKeys_Workspace,Workspace,Espaço de trabalho,,Redefine keys location entry
-RedefineKeys_Command,Command,Comando,,Redefine keys Command label
-RedefineKeys_Keys,Keys,Chaves,,Redefine keys Keys label
+RedefineKeys_Command,Command{0},Comando{0},,Redefine keys Command label
+RedefineKeys_Keys,Keys{0},Chaves{0},,Redefine keys Keys label
 Event_Other_RollbackStart,Rollback Start,Iniciar Reversão,,Other event subtype
 Event_Other_RollbackEvent,Rollback Event,Evento de Reversão,,Other event subtype
 Event_Other_WallpaperConfig,Wallpaper Config,Wallpaper Config,,Other event subtype
