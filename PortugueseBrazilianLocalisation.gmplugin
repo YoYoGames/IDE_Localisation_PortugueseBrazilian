@@ -3,12 +3,7 @@
   "bundle_version": "1.0.0",
   "bundle_description": "Portuguese-Brazilian IDE localisations",
   "required": false,
-  "endpoints": [
-    {
-      "endpoint_name": "github",
-      "github_url": "https://api.github.com/repos/YoYoGames/IDE_Localisation_PortugueseBrazilian"
-    }
-  ],
+  "feature_flag": "",
   "plugins": [
     {
       "plugin_name": "Portuguese-BrazilianLocalisation",
@@ -17,13 +12,21 @@
       "type": "Language",
       "plugin_data": {
         "languages": [
-            { "Portuguese-Brazilian": "portuguese-brazilian.csv" },
-            {"Portuguese-Brazilian": "portuguese-brazilian_dnd.csv" }
+          {
+            "Portuguese-Brazilian": "portuguese-brazilian.csv"
+          },
+          {
+            "Portuguese-Brazilian": "portuguese-brazilian_dnd.csv"
+          }
         ]
       },
       "description": "Portuguese-Brazilian IDE localisations",
       "required_assemblies": [],
       "dependencies": []
     }
-  ]
+  ],
+  "endpoints": [],
+  "author": "GameMaker",
+  "signature": "nCijTiiTzUTtbjAS5a5TGfDhNOlW2GhGyu57AyJGDjSWnm/y99YVZCp2R7XsoP9BkVFGDKip8tiSLdIbke7iYfmynbLjUdQcL54aMxfo\u002BViGSO\u002BtTWYoSp/3F9SVnZNBZuUlUR2C8VITKFDv94T8irT0UrXTzOuUdsaSENR9MSo=",
+  "verify": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfaWA3d2WPN5cJCqTJJj72v6p0a4toQY7MzAPpkXkDxdPpeWMbrV4AQs9V\u002BbGVZ4PaGA3Gl0DWzfSmb\u002Btd/oDtzZZ2XehhxyFg\u002BanTPo6MdTasMkXEDBU50f6e7m3ruelF1QIER0\u002BulTNMI8\u002B\u002BURtTcPu/\u002BalhiA5z7BJP/u2MWwIDAQAB"
 }
