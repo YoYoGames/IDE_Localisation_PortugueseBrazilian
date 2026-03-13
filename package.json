@@ -1,6 +1,6 @@
 {
   "name": "@localisation_plugins/portuguese-brazilian",
-  "version": "1.0.0",
+  "version": "{$MAJOR}.{$MINOR}.{$BUILD}",
   "description": "Portuguese Brazilian IDE localisations",
   "main": "index.js",
   "scripts": {
