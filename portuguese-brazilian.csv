@@ -8055,3 +8055,5 @@ Error_ProjectLoadPermissions,Could not load project at specified path: {0}.\nYou
 Feather_GM2017Help,GM2017 Message Severity must not be set to Ignore for these to take effect,A gravidade da mensagem GM2017 não pode ser definida como Ignorar para que isso entre em vigor,,GM2017 Message Severity must not be set to Ignore for these to take effect
 DeviceManager_Name_Already_Taken,A device with this name has already been created.,Já foi criado um dispositivo com este nome.,,Device manager name already taken error message
 GMStdTime,Time,Hora,,DnD library argument label
+lts_upgrade_title,LTS Upgrade Available,Atualização LTS disponível,,LTS Upgrade Available title
+lts_upgrade_text,This release is no longer supported but a new LTS upgrade is available from <a href=""https://releases.gamemaker.io"">https://releases.gamemaker.io</a>\n\nPlease upgrade at your earliest opportunity.,"Esta versão não é mais suportada, mas uma nova atualização LTS está disponível em <a href=""https://releases.gamemaker.io"">https://releases.gamemaker.io</a>\n\nPor favor, atualize assim que possível.",,LTS Upgrade text
